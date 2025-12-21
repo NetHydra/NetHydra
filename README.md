@@ -1,7 +1,7 @@
 <img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
 
 
-# NetHydra .
+# NetHydra (Formely Known As HydraPWK).
 
 [![Download HydraPWK GNU/Linux](https://img.shields.io/sourceforge/dm/hydrapwk-gnu-linux.svg)](https://sourceforge.net/projects/hydrapwk-gnu-linux/files/latest/download)
 
