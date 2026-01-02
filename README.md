@@ -1,34 +1,40 @@
 <img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
 
 
-# NetHydra .
+# NetHydra
 
-> Formely Known As HydraPWK
+> Formely known as HydraPWK
 
-[![Download HydraPWK GNU/Linux](https://img.shields.io/sourceforge/dm/hydrapwk-gnu-linux.svg)](https://sourceforge.net/projects/hydrapwk-gnu-linux/files/latest/download)
+NetHydra is an Security-auditing focused.
 
-# Support & resources
+**Tools in NetHydra**
 
- - Purplizer [NetHydra Purplizer Docs](https://gitlab.com/hydrapwk/hydrapwk-purplizer/documentations/-/blob/main/README.md?ref_type=heads)
- - Pages [NetHydra Page](https://nethydra.github.io/)
- - Issues [NetHydra Bug Tracker](https://github.com/nethydra/nethydra/issues)
- - Doc [NetHydra Standard Docs](https://nethydra.github.io/doc)
- - Tools tracking [NetHydra Tools Tracking (Deprecated)](https://nethydra.github.io/doc/tools-tracker)
- - LICENSE [NetHydra Policy](https://hydrapwk.github.io/doc/hydrapwk-software-policy)
- - DISTROWATCH [NetHydra/HydraPWK DISTROWATCH Page](https://distrowatch.com/table.php?distribution=hydrapwk)
-  
-```
-Terms and Policies
+***Arkime***
 
-HydraPWK is open-source software provided without any warranty. 
-It includes both free and non-free software packages, 
-focusing on industrial areas such as penetration testing, drones, avionic, 
-automotive, and marine systems. 
+![HydraPWK Arkime](/assets/tools/hydrapwk-arkime.png)
 
-HydraPWK is intended only for legal and authorized use cases, 
-such as security research, education, and professional audits. 
-The developers and contributors are not responsible for any damage, 
-loss, or misuse arising from the use of this software. 
-All responsibility lies with the end user.
-```
+**OpenSearch Dashboards**
 
+![OpenSearch Dashboards on HydraPWK](assets/tools/hydrapwk-opensearch-dashboard.png)
+
+![OpenSearch Dashboards visualize On HydraPWK](assets/tools/hydrapwk-dashboard-visualize.png)
+
+**Wazuh**
+
+![HydraPWK Wazuh-login](/assets/tools/hydrapwk-wazuh-login.png)
+
+![HydraPWK Wazuh-Dashboards](/assets/tools/hydrapwk-wazuh-dashboard.png)
+
+![HydraPWK Wazuh-Mitre](/assets/tools/hydrapwk-wazuh-mitre.png)
+
+![HydraPWK Wazuh-hipa](/assets/tools/hydrapwk-wazuh-hipa.png)
+
+_...And Standard Pentesting_
+
+**Team**
+
+[_@me-joe_](https://github.com/me-joe)
+
+**Contributing**
+
+NetHydra is Open-source project anyone free to contribute. [_GitHub_](https://github.com/NetHydra) and [_GitLab_](https://gitlab.com/NetHydra)
