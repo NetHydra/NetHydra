@@ -25,10 +25,6 @@ NetHydra is an Security-auditing focused.
 
 ![HydraPWK Wazuh-Dashboards](/assets/tools/hydrapwk-wazuh-dashboard.png)
 
-![HydraPWK Wazuh-Mitre](/assets/tools/hydrapwk-wazuh-mitre.png)
-
-![HydraPWK Wazuh-hipa](/assets/tools/hydrapwk-wazuh-hipa.png)
-
 _...And Standard Pentesting_
 
 **Team**
