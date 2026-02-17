@@ -1,4 +1,4 @@
-<img src="/graphics/hydrapwk-logo-circle.png" style=" width: 100%;">
+![NetHydra Paper Banner](/graphics/nethydra_banner-paper.png)
 
 
 # NetHydra
