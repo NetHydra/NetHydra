@@ -1,3 +1,5 @@
+[![Download HydraPWK GNU/Linux](https://img.shields.io/sourceforge/dm/hydrapwk-gnu-linux.svg)](https://sourceforge.net/projects/hydrapwk-gnu-linux/files/latest/download)
+
 ![NetHydra Paper Banner](/graphics/nethydra_banner-paper.png)
 
 
@@ -26,6 +28,7 @@ NetHydra is an Security-auditing focused.
 ![HydraPWK Wazuh-Dashboards](/assets/tools/hydrapwk-wazuh-dashboard.png)
 
 _...And Standard Pentesting_
+
 
 **Team**
 
